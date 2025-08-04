@@ -89,7 +89,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<fileName>collegeadmission</fileName>
+	<finalName>college_aws</finalName>
 	</build>
 
 </project>
