@@ -83,7 +83,7 @@
 	</dependencies>
 
 	<build>
-    <finalName>college_aws</finalName> <!-- ✅ Correct position -->
+    <finalName>college_aws</finalName> <!-- ✅ This is valid -->
     <plugins>
         <plugin>
             <groupId>org.springframework.boot</groupId>
@@ -91,6 +91,5 @@
         </plugin>
     </plugins>
 </build>
-
 
 </project>
